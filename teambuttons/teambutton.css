@@ -4,7 +4,7 @@ body {
   background-repeat: no-repeat;
   }
 
-#bostonbtn {
+#BOS-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -19,17 +19,17 @@ body {
   color: black;
 }
 
-#bostonbtn:hover {
+#BOS-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(23,75,151, 0.7), 0 13px 30px 0 rgba(23,75,151, 0.3);
 }
 
-#bostonbtn:active {
+#BOS-btn:active {
   box-shadow: 0 4px 6px 0 rgba(23,75,151, 0.7), 0 6px 15px 0 rgba(23,75,151, 0.3);
   transform: translateY(2px);
 }
 
 
-#dallasbtn {
+#DAL-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -44,16 +44,16 @@ body {
   color: black;
 }
 
-#dallasbtn:hover {
+#DAL-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(3,35,64, 0.7), 0 13px 30px 0 rgba(3,35,64, 0.3);
 }
 
-#dallasbtn:active {
+#DAL-btn:active {
   box-shadow: 0 4px 6px 0 rgba(3,35,64, 0.7), 0 6px 15px 0 rgba(3,35,64, 0.3);
   transform: translateY(2px);
 }
 
-#floridabtn {
+#FLA-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -68,16 +68,16 @@ body {
   color: black;
 }
 
-#floridabtn:hover {
+#FLA-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(254,219,0, 0.7), 0 13px 30px 0 rgba(254,219,0, 0.3);
 }
 
-#floridabtn:active {
+#FLA-btn:active {
   box-shadow: 0 4px 6px 0 rgba(254,219,0, 0.7), 0 6px 15px 0 rgba(254,219,0, 0.3);
   transform: translateY(2px);
 }
 
-#houstonbtn {
+#HOU-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -92,16 +92,16 @@ body {
   color: black;
 }
 
-#houstonbtn:hover {
+#HOU-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(151,215,0, 0.7), 0 13px 30px 0 rgba(151,215,0, 0.3);
 }
 
-#houstonbtn:active {
+#HOU-btn:active {
   box-shadow: 0 4px 6px 0 rgba(151,215,0, 0.7), 0 6px 15px 0 rgba(151,215,0, 0.3);
   transform: translateY(2px);
 }
 
-#londonbtn {
+#LDN-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -116,16 +116,16 @@ body {
   color: black;
 }
 
-#londonbtn:hover {
+#LDN-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(255,130,0, 0.7), 0 13px 30px 0 rgba(255,130,0, 0.3);
 }
 
-#londonbtn:active {
+#LDN-btn:active {
   box-shadow: 0 4px 6px 0 rgba(255,130,0, 0.7), 0 6px 15px 0 rgba(255,130,0, 0.3);
   transform: translateY(2px);
 }
 
-#gladiatorbtn {
+#GLA-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -140,16 +140,16 @@ body {
   color: black;
 }
 
-#gladiatorbtn:hover {
+#GLA-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(60,16,83, 0.7), 0 13px 30px 0 rgba(60,16,83, 0.3);
 }
 
-#gladiatorbtn:active {
+#GLA-btn:active {
   box-shadow: 0 4px 6px 0 rgba(60,16,83, 0.7), 0 6px 15px 0 rgba(60,16,83, 0.3);
   transform: translateY(2px);
 }
 
-#valiantbtn {
+#VAL-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -164,16 +164,16 @@ body {
   color: black;
 }
 
-#valiantbtn:hover {
+#VAL-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(74,119,41, 0.7), 0 13px 30px 0 rgba(74,119,41, 0.3);
 }
 
-#valiantbtn:active {
+#VAL-btn:active {
   box-shadow: 0 4px 6px 0 rgba(74,119,41, 0.7), 0 6px 15px 0 rgba(74,119,41, 0.3);
   transform: translateY(2px);
 }
 
-#nybtn {
+#NYE-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -188,16 +188,16 @@ body {
   color: black;
 }
 
-#nybtn:hover {
+#NYE-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(23,28,56, 0.7), 0 13px 30px 0 rgba(23,28,56, 0.3);
 }
 
-#nybtn:active {
+#NYE-btn:active {
   box-shadow: 0 4px 6px 0 rgba(23,28,56, 0.7), 0 6px 15px 0 rgba(23,28,56, 0.3);
   transform: translateY(2px);
 }
 
-#phillybtn {
+#PHI-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -212,16 +212,16 @@ body {
   color: black;
 }
 
-#phillybtn:hover {
+#PHI-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(255,158,27, 0.7), 0 13px 30px 0 rgba(255,158,27, 0.3);
 }
 
-#phillybtn:active {
+#PHI-btn:active {
   box-shadow: 0 4px 6px 0 rgba(255,158,27, 0.7), 0 6px 15px 0 rgba(255,158,27, 0.3);
   transform: translateY(2px);
 }
 
-#sanfranbtn {
+#SFS-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -236,16 +236,16 @@ body {
   color: black;
 }
 
-#sanfranbtn:hover {
+#SFS-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(252,76,2, 0.7), 0 13px 30px 0 rgba(252,76,2, 0.3);
 }
 
-#sanfranbtn:active {
+#SFS-btn:active {
   box-shadow: 0 4px 6px 0 rgba(252,76,2, 0.7), 0 6px 15px 0 rgba(252,76,2, 0.3);
   transform: translateY(2px);
 }
 
-#seoulbtn {
+#SEO-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -260,16 +260,16 @@ body {
   color: black;
 }
 
-#seoulbtn:hover {
+#SEO-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(0,0,0, 0.7), 0 13px 30px 0 rgba(0,0,0, 0.3);
 }
 
-#seoulbtn:active {
+#SEO-btn:active {
   box-shadow: 0 4px 6px 0 rgba(0,0,0, 0.7), 0 6px 15px 0 rgba(0,0,0, 0.3);
   transform: translateY(2px);
 }
 
-#shanghaibtn {
+#SHD-btn {
   width: 250px;
   height: 100px;
   border-radius: 12px;
@@ -284,11 +284,11 @@ body {
   color: black;
 }
 
-#shanghaibtn:hover {
+#SHD-btn:hover {
     box-shadow: 0 8px 12px 0 rgba(210,38,48, 0.7), 0 13px 30px 0 rgba(210,38,48, 0.3);
 }
 
-#shanghaibtn:active {
+#SHD-btn:active {
   box-shadow: 0 4px 6px 0 rgba(210,38,48, 0.7), 0 6px 15px 0 rgba(210,38,48, 0.3);
   transform: translateY(2px);
 }
